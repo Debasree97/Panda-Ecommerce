@@ -1,0 +1,11 @@
+/* header */
+
+/* Carousel */
+.panda-bg-color{
+    background-color: #fcecea;
+}
+
+.buy-now-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+    border-radius: 8px;
+}
